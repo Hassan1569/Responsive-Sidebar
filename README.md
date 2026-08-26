@@ -1,1 +1,1 @@
-# PROJECT-9
+# Responsive sidebar
